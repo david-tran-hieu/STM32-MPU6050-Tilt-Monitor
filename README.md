@@ -66,10 +66,6 @@ The LED connected to PA8 is activated when a valid measurement exceeds the thres
 - The tilt threshold is currently set to 20 degrees in the firmware.
 - The exact I2C pins, OLED address, and display configuration should be verified against the complete source code and hardware setup.
 
-## Author
-
-GitHub: [hieuhk06-star](https://github.com/hieuhk06-star)
-
 ## License
 
 No separate project license has been specified. Add a license file if you intend to define the terms under which others may use or redistribute this project.
